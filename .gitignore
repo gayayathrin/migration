@@ -3,3 +3,6 @@ build
 .idea
 *.iml
 ci/variables.yml
+id_migration
+id_migration.pub
+auth_token.txt
